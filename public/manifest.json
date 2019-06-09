@@ -1,15 +1,20 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "manifest_version": 2,
+  "name": "Home Menu",
+  "author": "Patricia Nunes",
+  "version": "1.0.1",
+  "description": "Replace new tab screen with tons of apps",
+  "icons": { 
+    "16": "16.png",
+    "48": "48.png",
+    "128": "128.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "web_accessible_resources": [
+    "static/js/runtime~main.a8a9905a.js.map",
+    "static/js/main.fba0607a.chunk.js.map",
+    "static/js/2.445a14e7.chunk.js.map"
+  ]
 }
