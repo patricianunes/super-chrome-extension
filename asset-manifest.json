@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/super-chrome-extension/static/css/main.36325b7a.chunk.css",
+    "main.js": "/super-chrome-extension/static/js/main.021750a2.chunk.js",
+    "main.js.map": "/super-chrome-extension/static/js/main.021750a2.chunk.js.map",
+    "runtime~main.js": "/super-chrome-extension/static/js/runtime~main.44eac186.js",
+    "runtime~main.js.map": "/super-chrome-extension/static/js/runtime~main.44eac186.js.map",
+    "static/css/2.266e55a5.chunk.css": "/super-chrome-extension/static/css/2.266e55a5.chunk.css",
+    "static/js/2.1db26245.chunk.js": "/super-chrome-extension/static/js/2.1db26245.chunk.js",
+    "static/js/2.1db26245.chunk.js.map": "/super-chrome-extension/static/js/2.1db26245.chunk.js.map",
+    "index.html": "/super-chrome-extension/index.html",
+    "precache-manifest.cb54fc1dcf52f030cee9912201875b5c.js": "/super-chrome-extension/precache-manifest.cb54fc1dcf52f030cee9912201875b5c.js",
+    "service-worker.js": "/super-chrome-extension/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/super-chrome-extension/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.36325b7a.chunk.css.map": "/super-chrome-extension/static/css/main.36325b7a.chunk.css.map"
+  }
+}
