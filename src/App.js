@@ -3,6 +3,7 @@ import "./App.css";
 
 import Tictactoe from "./components/Tictactoe";
 import Delicious from "./components/Delicious";
+import Weather from "./components/Weather";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         />
         <div className="Home-container">
           <Delicious />
+          <Weather />
           <Tictactoe />
         </div>
         <img
