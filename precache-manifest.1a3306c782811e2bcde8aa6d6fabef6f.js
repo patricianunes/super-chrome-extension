@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e8707568dbf6a17d638cbcb91fbd55c",
+    "revision": "206376a1f2dcf12eafee4ca5b147444e",
     "url": "/super-chrome-extension/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/super-chrome-extension/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "fc670707144fa8c0a7d8",
+    "revision": "5ac912b0804d6ad3d2d0",
     "url": "/super-chrome-extension/static/css/main.36325b7a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/super-chrome-extension/static/js/2.1db26245.chunk.js"
   },
   {
-    "revision": "fc670707144fa8c0a7d8",
-    "url": "/super-chrome-extension/static/js/main.021750a2.chunk.js"
+    "revision": "5ac912b0804d6ad3d2d0",
+    "url": "/super-chrome-extension/static/js/main.4219adbe.chunk.js"
   },
   {
     "revision": "5e61da62c004d4f47066",
