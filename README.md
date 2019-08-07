@@ -1,39 +1,77 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Chrome Extension
 
-## Available Scripts
+[Chrome Extension](https://patricianunes.github.io/super-chrome-extension/)
 
-In the project directory, you can run:
+Overview
+---
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Welcome to my Chrome extension
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+Chrome extension for multi-apps, similar at the cellphone menu that can have many apps that help us in our routing. 
+The first one was a TicTacToe game that a made in my first project at General Assembly Course. 
+Next app was a search for recipes and the third app was a search for the weather. 
 
-### `npm test`
+The big challenge was that when I deploy in chrome://extensions do not work, after a extensive research I learned that I could not use React Routes so I needed to change the apps, build outside of the Chrome Extension and link to a external link.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The objective of the project was to use all the technologies and knowledge that I have learned.
 
-### `npm run build`
+I wrote the project with **JavaScript, React, HTML, CSS** and have used external APIs to get all the data that I needed to build the Wheater and Recipes Apps.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+After doing the basics I try to improve my code and make looks better, I focused on Bootstrap/CSS and try to make look pretty, but really need a lot to make look great!
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+I really wanted to make my project the most easy to read and understand.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Still need some good thinks like, ToDo app, Games, but everything could be better and better.
 
-### `npm run eject`
+Do you want to see my project? I also deploy it at gh-pages [Chrome Extension](https://patricianunes.github.io/super-chrome-extension/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- ###Necessary Deliverables
+
+A working game, built by you, hosted somewhere on the internet
+A link to your hosted working game in the URL section of your Github repo
+A git repository hosted on Github, with a link to your hosted game, and frequent commits dating back to the very beginning of the project
+A readme.md file with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
+##Emphasis
+*Italic*, **Bold**, ***Both***
+
+Alternatively: _italic_, __bold__, ___superfancy___
+
+##Starred lists
+* List 1
+* List 2
+* List 3
+
+##Dashed lists
+- Dashes
+- Work
+- Too
+
+## Addition Lists
++ Plus
++ Also
++ Works
+
+## Nubered lists
+
+1. first
+1. second
+
+links work like this: [text for the link] (http://w3c.org/)
+
+## Images
+![Bill Murray](http://fillmarray.com/400/700)
+
+## Code: backtick city
+Refere to a variable like `counter` in special font.
+
+```
+const hello = function() {
+  console.log('hello');
+}
+``` -->
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
